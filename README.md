@@ -1,9 +1,9 @@
-# Homework 1 Assignment
+# Homework 2 Assignment
 
-### CS 401 | Sohrab Kazak | 1/20/2023
+### CS 401 | Sohrab Kazak | 2/10/2023
 
 ---
-Assignment was to create a very basic system for assignment of leads to users as an introduction to the java programming language. 
+Assignment was to extend the first assignment with unit testing and the use of predicates.
 
 CLI App
 
